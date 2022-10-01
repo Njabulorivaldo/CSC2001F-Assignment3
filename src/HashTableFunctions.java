@@ -1,7 +1,7 @@
 class HashTableFunctions
 {
-   // hash function weights
-   // 9 integers, each in the range 0-5 to act as weights for the characters in the keys
+   // hash function weights.
+   // 9 integers, each in the range 0-5 to act as weights for the characters in the keys.
     public int [] weights = {1, 4, 2, 4, 3, 2, 1, 4, 3};;
    
    
